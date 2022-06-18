@@ -1,1 +1,1 @@
-# class-projects repository with projects developed during classes held
+repository developed during a javascript class taught by startse
